@@ -1,1 +1,2 @@
 # Mini-project
+This is my mini project "Stopwatch" Stopwatch เป็นเว็บที่สร้างขึ้นเพื่อใช้จับเวลา โดยตัวนาฬิกาจะมีฟังก์ชั่น3อย่าง คือ 1.จับเวลา 2.หยุดเวลา 3.รีเซ็ท to open the code 1.Create new folder name "Stopwatch" 2.import files into folder 3.Open Visual Studio Code 4.Click File->Open folder->select folder name "Stopwatch" 4.To check result click Go Live on bottom right 5.If you don't have Go Live.Download Live Sever in Extentions first
